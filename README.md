@@ -22,7 +22,7 @@ Jerry gets two points for his prediction for runner 'A' being off by only one po
 
 Thomas gets one point for his prediction for runner 'A' being off by two positions (3-2=1). Thomas gets two points for his correct prediction of runner 'C' coming in second (2-0=0). Thomas gets zero points for his prediction of runner 'B' (1-2=less than zero).
 
-### Women's Scoring (number of places scored = 4)
+### Men's Scoring (number of places scored = 4)
 ```
 Men's Results
 ['answer_key', 10]
